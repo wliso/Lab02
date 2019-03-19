@@ -96,5 +96,19 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="av1.png" />
+    <Resource Include="av10.png" />
+    <Resource Include="av11.png" />
+    <Resource Include="av2.png" />
+    <Resource Include="av3.png" />
+    <Resource Include="av4.png" />
+    <Resource Include="av5.png" />
+    <Resource Include="av6.png" />
+    <Resource Include="av7.png" />
+    <Resource Include="av8.png" />
+    <Resource Include="av9.png" />
+    <Resource Include="kot.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

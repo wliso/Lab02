@@ -15,8 +15,12 @@
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Orientation="Horizontal">
-                        <TextBlock Text="{Binding Path=Name}" Width="100"/>
-                        <TextBlock Text="{Binding Path=Age}" Width="100"/>
+                        <TextBlock Text="{Binding Path=Name}" Width="80"/>
+                        <TextBlock Text="{Binding Path=Age}" Width="80"/>
+                        <TextBlock Text="{Binding Path=Random_words}" Width="80"/>
+                        <Button Name ="button" Click="AddNewButton_Click">
+                            <Image Source="{Binding Path=Filename}" Width="20"/>
+                        </Button>
                     </StackPanel>
                 </DataTemplate>
             </ListBox.ItemTemplate>
@@ -27,6 +31,9 @@
             <TextBlock TextWrapping="Wrap" Text="Age"/>
             <TextBox Name="ageTextBox" Height="23" TextWrapping="Wrap" Text="99"  Margin="0,0,0,10"/>
             <Button Name = "addNewPersonButton" Content="Add new person" Click="AddNewPersonButton_Click"/>
+            <Button Name = "readData" Content="read data" Click="readDataButton_Click"/>
+            <Button Name ="addNewImage" Content="Add new image" Click="AddNewImageButton_Click"/>
+            <Image  Name ="myImage" Source="av1.png" Height="134" Margin="93,0,94,0"/>
             <Grid Height="50">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition/>
@@ -36,12 +43,9 @@
                     <RowDefinition/>
                     <RowDefinition/>
                 </Grid.RowDefinitions>
-                <Button Content="Perform stupid calculations" Grid.Column="1" Margin="5" Grid.Row="0" Grid.RowSpan="2" Click="Button_Click"/>
-                <TextBlock Text="Final number" Grid.Column="0" Grid.Row="0" Margin="0" HorizontalAlignment="Left" VerticalAlignment="Bottom"></TextBlock>
-                <TextBox x:Name="finalNumberTextBox" Text="0" Grid.Column="0" Grid.Row="1" VerticalAlignment="Top"></TextBox> 
+                <!--<Button Content="Perform stupid calculations" Grid.Column="1" Margin="5" Grid.Row="0" Grid.RowSpan="2" Click="Button_Click"/>-->
+                <TextBlock  x:Name="ResultBlock" Text="ResultBlock" Grid.Column="0" Grid.Row="0" Margin="0" HorizontalAlignment="Left" VerticalAlignment="Bottom"></TextBlock>
             </Grid>
-            <TextBlock x:Name="progressTextBlock" TextWrapping="Wrap" Text=""/>
-            <TextBlock x:Name="progressTextBlock2" TextWrapping="Wrap" Text=""/>
         </StackPanel>
     </Grid>
 </Window>

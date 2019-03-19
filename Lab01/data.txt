@@ -1,0 +1,632 @@
+﻿﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <title>Fitness cards BeActive - eBeActive.pl</title>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="Content-Language" content="pl" />
+        <meta name="keywords" content="beactive,beactive card,fitness shop,fitness,sports card,sports cards for employees" />
+        <meta name="description" content="Fitness cards BeActive. Zadbaj o aktywność fizyczną z kartą fitness BeActive. Dołącz do Nas - aktywnie zakręconych." />
+        <meta name="robots" content="index,follow" />
+        <meta name="author" content="cStore - www.cstore.pl" />
+        <meta name="revisit-after" content="3 days" />
+
+        
+        <link rel="search" type="application/opensearchdescription+xml" href="opensearch.php" title="eBeActive.pl" />
+      
+        <link rel="shortcut icon" href="/fav.ico" type="image/x-icon" />
+       
+        <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,800,600,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+        <style>ul.instagram li .title { display: none; }</style>
+   
+        <link rel="stylesheet" href="/themes/lightbox.css?d=10&ts=1553025185" type="text/css" media="screen" />
+        <link rel="stylesheet" href="/themes/jquery.autocomplete.css?d=10&ts=1553025185" type="text/css" media="screen" />
+        <link rel="stylesheet" href="/themes/filter.css?d=10&ts=1553025185" type="text/css" media="screen" />
+        <link rel="stylesheet" href="/themes/ebeactive/js/fancybox/jquery.fancybox-1.3.4.css?d=10&ts=1553025185" type="text/css" media="screen" />
+        <link rel="stylesheet" href="/themes/ebeactive/css/style.css?d=10&ts=1553025185" type="text/css" media="screen" /> 
+        <link rel="stylesheet" href="/themes/ebeactive/css/lang/style.css?d=10&ts=1553025185" type="text/css" />
+        <link rel="stylesheet" href="/themes/ebeactive/css/print.css?d=10&ts=1553025185" type="text/css" media="print" />
+       
+
+        <script type="text/javascript" src="/themes/js/jquery-lib.js"></script>
+        <script type="text/javascript" src="/themes/js/system.js"></script>
+        <script type="text/javascript" src="/include/functions.js"></script>
+        
+        <script type="text/javascript">
+            theme          = '/themes/ebeactive';
+            kontoFacebook  = 'ebeactive';
+            stronaFacebook = '/';
+            facebookSide   = 'right';
+            epromotion     = ('false' === 'true');
+        </script>
+        
+        <!--<script type="text/javascript" src="/themes/ebeactive/js/jquery.flow.1.2.auto.js"></script>-->
+        <!--<script type="text/javascript" src="/themes/ebeactive/js/autocomplete.js"></script>-->
+        <script type="text/javascript" src="/themes/ebeactive/js/jquery-1.7.1.js"></script>
+        <script type="text/javascript" src="/themes/ebeactive/js/cstore.js"></script>
+        <script type="text/javascript" src="/themes/ebeactive/js/jquery.jcarousel.min.js"></script>
+        <script type="text/javascript" src="/themes/ebeactive/js/nyroModal.js"></script>
+        <!--<script type="text/javascript" src="/themes/ebeactive/js/jquery.cycle.all.js"></script>-->
+        <script type="text/javascript" src="/themes/ebeactive/js/jquery-ui-1.8.16.custom.min.js"></script>
+        <script type="text/javascript" src="/themes/js/jquery-func.js"></script>
+        <!--<script type="text/javascript" src="/themes/ebeactive/js/fancybox/jquery.fancybox-1.3.4.js"></script>-->
+        <!--<script type="text/javascript" src="/themes/ebeactive/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>-->
+        
+        <script type="text/javascript" src="/themes/ebeactive/js/ps.js"></script>
+        <!--<script type="text/javascript" src="/themes/js/jquery.autocomplete.js"></script>-->
+        <script type="text/javascript" src="/themes/ebeactive/js/jquery.validate.js"></script>
+        
+        <script type="text/javascript" src="/themes/ebeactive/js/jquery.disable.text.select.pack.js"></script>
+        <script type="text/javascript" src="/themes/js/cookie.js"></script>
+        
+        <script src="/themes/ebeactive/js/validate.min.js"></script>
+		
+		<!--<script>(function() {-->
+              <!--var _fbq = window._fbq || (window._fbq = []);-->
+              <!--if (!_fbq.loaded) {-->
+                    <!--var fbds = document.createElement('script');-->
+                    <!--fbds.async = true;-->
+                    <!--fbds.src = '//connect.facebook.net/en_US/fbds.js';-->
+                    <!--var s = document.getElementsByTagName('script')[0];-->
+                    <!--s.parentNode.insertBefore(fbds, s);-->
+                    <!--_fbq.loaded = true;-->
+              <!--}-->
+              <!--_fbq.push(['addPixelId', '1521442128099598']);-->
+        <!--})();-->
+        <!--window._fbq = window._fbq || [];-->
+        <!--window._fbq.push(['track', 'PixelInitialized', {}]);-->
+        <!--</script>-->
+        <!--<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1521442128099598&ev=PixelInitialized" /></noscript>-->
+
+        <script>(function() {
+              var _fbq = window._fbq || (window._fbq = []);
+              if (!_fbq.loaded) {
+                    var fbds = document.createElement('script');
+                    fbds.async = true;
+                    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(fbds, s);
+                    _fbq.loaded = true;
+              }
+              _fbq.push(['addPixelId', '1521442128099598']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]);
+        </script>
+        <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1521442128099598&ev=PixelInitialized" /></noscript>
+        <!-- Facebook Pixel Code -->
+
+        <script>
+            !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+            fbq('init', '1708195699395243');
+            fbq('track', "PageView");
+            fbq('track', 'Purchase', { value: 0.00, currency: 'PLN' });
+        </script>
+        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1708195699395243&ev=PageView&noscript=1" /></noscript>
+
+        <!-- End Facebook Pixel Code --> 
+        
+        
+        <script type="text/javascript">
+            $(function() {
+//                var md = new Date(ld);
+//                md = new Date(md.getTime() + (7 * 24 * 3600 * 1000));
+//                if ( md.getMonth() < 10 ) dmonth = "0" + ( md.getMonth() + 1 );
+//                else dmonth = ( md.getMonth() + 1 );
+//
+//                if (  md.getDate() < 10 ) dday = "0" + ( md.getDate() );
+//                else dday = ( md.getDate() );
+//
+//                var mnd = md.getFullYear() + "-" + dmonth + "-" + dday;
+
+                $("#datepicker" ).datepicker({
+                    regional: 'pl',
+                    dateFormat: 'yy-mm-dd',
+                    minDate : "2019-03-22",
+                    maxDate : "2019-04-18",
+                    firstDay: 1
+                });
+                
+                
+            });
+            var KartaMinDate = "2019-03-22",
+                KartaMaxDate = "2019-04-18";
+        </script>
+
+        <script type="text/javascript" src="/themes/ebeactive/js/ui.selectmenu.js"></script>
+        <script type="text/javascript" src="/themes/ebeactive/js/jquery.multiselect.min.js"></script>
+        <script type="text/javascript" src="/themes/ebeactive/js/functions.js"></script>
+        <script type="text/javascript" src="/themes/ebeactive/js/jquery-ui-1.10.3.custom.min.js"></script>
+        <link rel="stylesheet" href="/themes/ebeactive/css/jquery-ui-1.10.3.custom.css" type="text/css" />
+        <script type="text/javascript" src="/themes/ebeactive/js/bb_fbslider.js"></script>
+        <!--<script src="/themes/js/cs_info.php" type="text/javascript"></script>-->
+        
+        
+<!-- Kod Google Analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(["_setAccount", "UA-44117459-1"]);
+_gaq.push(["_trackPageview"]);
+setTimeout(function(){_gaq.push(["_trackEvent","CzasUzytkownika","BezOdrzucen","Powyzej 10 sekund"]);},10000);
+
+(function() {
+	var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+	ga.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js";
+	var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+})
+();
+</script><script type="text/javascript" src="/include/language.js.php"></script>
+
+        <script type="text/javascript" src="/include/functions.js"></script>
+            <script type="text/javascript">
+                var timeout;
+                document.onmousemove = resetTimer;
+                document.onclick = resetTimer;
+                document.onkeydown = resetTimer;
+                
+                function showPopUp() {
+                    if($.cookie("popup_showed") == null) {
+                        $("#ppo_overlay").css("display", "block");
+                        $("#ppo_img").css("display", "block");
+                        $.cookie("popup_showed", "1");
+                    }
+                }
+                
+                function resetTimer() {
+                    clearTimeout(timeout);
+                    timeout = setTimeout("showPopUp()", 15000);
+                }
+
+                $("document").ready(function() {
+                    resetTimer();
+
+                    $("#ppo_overlay").click(function() {
+                        $("#ppo_overlay").css("display", "none");
+                        $("#ppo_img").css("display", "none");
+                    });
+
+                    $("#ppo_close").click(function() {
+                        $("#ppo_overlay").css("display", "none");
+                        $("#ppo_img").css("display", "none");
+                    });
+                });
+            </script>
+            
+            <style>
+            @media (min-width: 540px) {
+                #ppo_img {
+                    left: 50%; 
+                    transform: translate(-50%,0);
+                }
+            }
+            </style>
+
+        <script type="text/javascript" src="https://s3-eu-west-1.amazonaws.com/inteliwise-client/saas/embed/v_1.5/659c1804225829a0ba5fee7205149128948b52716674220b48a29025354368d3/f3e8bc2144af985d68a3dd9aaff415dd"></script>
+        <script type="text/javascript">
+            /* <![CDATA[ */
+            var google_conversion_id = 963459605;
+            var google_custom_params = window.google_tag_params;
+            var google_remarketing_only = true;
+            /* ]]> */
+            </script>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+        </script>
+        <noscript>
+            <div style="display:inline;">
+                <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/963459605/?value=0&guid=ON&script=0"/>
+            </div>
+        </noscript>
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "Product",
+                "name": "Karta BeActive",
+                "brand": {
+                    "@type": "Thing",
+                    "name": "BeActive"
+                },
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": "59.00",
+                    "highPrice": "269.00",
+                    "priceCurrency": "PLN"
+                }
+            }
+        </script>
+		<!-- Google Tag Manager -->
+		<!--<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':-->
+		<!--new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],-->
+		<!--j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=-->
+		<!--'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);-->
+		<!--})(window,document,'script','dataLayer','GTM-TWZ9JJ');</script>-->
+		<!-- End Google Tag Manager -->
+
+        <!-- Facebook Pixel Code -->
+
+        <script>
+
+            !function(f,b,e,v,n,t,s)
+
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+                    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+                if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+                n.queue=[];t=b.createElement(e);t.async=!0;
+
+                t.src=v;s=b.getElementsByTagName(e)[0];
+
+                s[removed].insertBefore(t,s)}(window, document,'script',
+
+                    'https://connect.facebook.net/en_US/fbevents.js');
+
+            fbq('init', '2152919171658183');
+
+            fbq('track', 'PageView');
+
+        </script>
+
+        <noscript><img height="1" width="1" style="display:none"
+
+                       src="https://www.facebook.com/tr?id=2152919171658183&ev=PageView&noscript=1"
+
+        /></noscript>
+
+        <!-- End Facebook Pixel Code -->
+	<style>img[src*=omgpl] { display: none; }</style>
+	<script type='text/javascript' src="https://track.omgpl.com/1311156/e/ss/?APPID=YOURREF&MID=1311156&PID=33072&status="></script><noscript><img src="https://track.omgpl.com/e/si/?APPID=YOURREF&MID=1311156&PID=33072&status=" border="0" height="1" width="1"></noscript>
+    </head>
+
+    <body id="div_id_main_page" class="cat_ div_class_main_page">
+    <script>var clubs = {"Bia\u0142a Podlaska":[{"id":"329","miasto":"Bia\u0142a Podlaska","ulica":"Janowska 58 ","nazwa":"FABRYKA CIA\u0141A SPORT CLUB","Lat":"52.0427739","Lng":"23.116985"},{"id":"326","miasto":"Bia\u0142a Podlaska","ulica":"Marsz. J\u00f3zefa Pi\u0142sudskiego 13","nazwa":"GymHouse","Lat":"52.0352419","Lng":"23.11645240000007"},{"id":"338","miasto":"Bia\u0142a Podlaska","ulica":"ul. Janowska 59","nazwa":"ProGym Club","Lat":"52.0448979","Lng":"23.118606"}],"Bia\u0142ystok":[{"id":"175","miasto":"Bia\u0142ystok","ulica":"G\u0142owackiego 14","nazwa":"Klub Atleta","Lat":"53.1430456","Lng":"23.13887610000006"},{"id":"177","miasto":"Bia\u0142ystok","ulica":"Jurowiecka 1","nazwa":"Calypso Fitness Club Bia\u0142ystok","Lat":"53.13877919999999","Lng":"23.160909700000047"},{"id":"192","miasto":"Bia\u0142ystok","ulica":"Wroc\u0142awska 51b","nazwa":"Fitness Club S4 Bia\u0142ystok","Lat":"53.125316","Lng":"23.096047"},{"id":"228","miasto":"Bia\u0142ystok","ulica":"Che\u0142mo\u0144skiego 54","nazwa":"Wygoda Fitness Club","Lat":"53.1480072","Lng":"23.208546399999932"},{"id":"282","miasto":"Bia\u0142ystok","ulica":"Bitwy Bia\u0142ostockiej 2","nazwa":"Fitness Klub \u201eMAX\u201d","Lat":"53.14553240000001","Lng":"23.16095139999993"},{"id":"327","miasto":"Bia\u0142ystok","ulica":"ul. Wiadukt 5 lok. H4","nazwa":"Xform Fitness & Bodybuilding","Lat":"53.0990536","Lng":"23.132020399999988"},{"id":"364","miasto":"Bia\u0142ystok","ulica":"ul. Syczewskiego 8","nazwa":"RELAX - Klub Kwadransowych Grubas\u00f3w","Lat":"53.1435192","Lng":"23.18978889999994"},{"id":"365","miasto":"Bia\u0142ystok","ulica":"ul. Mickiewicza 44","nazwa":"Fitness Klub Multifit","Lat":"53.1225889","Lng":"23.172553900000025"},{"id":"366","miasto":"Bia\u0142ystok","ulica":"ul.\u015aw.Rocha 12\/01","nazwa":"IKMF Krav Maga Kobra Bia\u0142ystok","Lat":"53.1341036","Lng":"23.141098199999988"},{"id":"379","miasto":"Bia\u0142ystok","ulica":"Zwyci\u0119stwa 8","nazwa":"STARS Gym & Fitness","Lat":"53.1353839","Lng":"23.133620000000064"}],"Bielsko-Bia\u0142a":[{"id":"172","miasto":"Bielsko-Bia\u0142a","ulica":"Pi\u0142sudskiego 27","nazwa":"Dekatlon Fitness Club","Lat":"49.825647","Lng":"19.053262"},{"id":"173","miasto":"Bielsko-Bia\u0142a","ulica":"O\u015bwi\u0119cimska 22","nazwa":"Fitness Klub Solar","Lat":"49.808873","Lng":"19.029211900000064"},{"id":"185","miasto":"Bielsko-Bia\u0142a","ulica":"Sarni Stok 2","nazwa":"Matrix Fitness Bielsko-Bia\u0142a","Lat":"49.8396572","Lng":"19.034608700000035"},{"id":"361","miasto":"Bielsko-Bia\u0142a","ulica":"ul. Tadeusza Rejtana 3","nazwa":"Fitness Center 24","Lat":"49.8163229","Lng":"19.042017100000066"}],"Brwin\u00f3w":[{"id":"311","miasto":"Brwin\u00f3w","ulica":"Wilsona 17A","nazwa":"BC-STUDIO","Lat":"52.137011","Lng":"20.718383000000017"}],"Brzesko":[{"id":"349","miasto":"Brzesko","ulica":"Przy Rondzie 3","nazwa":"Xtreme Fitness BRZESKO","Lat":"49.9658673","Lng":"20.59965520000003"}],"Bydgoszcz":[{"id":"342","miasto":"Bydgoszcz","ulica":"ul. Gen.W\u0142adys\u0142awa Andersa 55","nazwa":"PROFESSIONAL TRAINING CLUB","Lat":"53.16030500000001","Lng":"18.16584309999996"},{"id":"169","miasto":"Bydgoszcz","ulica":"Toru\u0144ska 59","nazwa":"Bella Line Wellness Centrum Bydgoszcz \u0141uczniczka","Lat":"53.11941789999999","Lng":"18.026590299999953"},{"id":"284","miasto":"Bydgoszcz","ulica":"Unii Lubelskiej 4D","nazwa":"Cegielnia Fit&Gym ","Lat":"53.1324096","Lng":"17.990367200000037"},{"id":"367","miasto":"Bydgoszcz","ulica":"ul. Marii Curie - Sk\u0142odowskiej 16\/18","nazwa":"MEGA FIT","Lat":"53.1256291","Lng":"18.028476700000056"}],"Bytom":[{"id":"312","miasto":"Bytom","ulica":"Plac Ko\u015bciuszki 1","nazwa":"Calypso Fitness Club Bytom Agora","Lat":"50.3475778","Lng":"18.919484300000022"},{"id":"350","miasto":"Bytom","ulica":"Krakowska 21","nazwa":"Xtreme Fitness BYTOM","Lat":"50.3460774","Lng":"18.9281747"}],"Chorz\u00f3w":[{"id":"352","miasto":"Chorz\u00f3w","ulica":"Ga\u0142eczki 30","nazwa":"Xtreme Fitness CHORZ\u00d3W","Lat":"50.2869166","Lng":"18.958022000000028"}],"Cz\u0119stochowa":[{"id":"10","miasto":"Cz\u0119stochowa","ulica":"Piastowska 225","nazwa":"Calypso Fitness Club Cz\u0119stochowa","Lat":"50.7945863","Lng":"19.08148600000004"},{"id":"221","miasto":"Cz\u0119stochowa","ulica":"Al. Wojska Polskiego 207","nazwa":"Calypso Fitness Club Cz\u0119stochowa Galeria Jurajska","Lat":"50.8074109","Lng":"19.13155389999997"}],"D\u0105browa G\u00f3rnicza":[{"id":"91","miasto":"D\u0105browa G\u00f3rnicza","ulica":"D\u0105bskiego 6","nazwa":"Si\u0142ownia Active","Lat":"50.3174719","Lng":"19.164184999999975"}],"D\u0105browa Tarnowska":[{"id":"347","miasto":"D\u0105browa Tarnowska","ulica":"Graniczna 5","nazwa":"Xtreme Fitness D\u0104BROWA TARNOWSKA","Lat":"50.1744025","Lng":"20.987917100000004"}],"Elbl\u0105g":[{"id":"129","miasto":"Elbl\u0105g","ulica":"Pl. Jagiello\u0144czyka 6","nazwa":"Matrix Fitness Elbl\u0105g","Lat":"54.1662221","Lng":"19.406734599999936"},{"id":"223","miasto":"Elbl\u0105g","ulica":"K\u0142oczowskiego 15A","nazwa":"Fitness Club GRAFIT ","Lat":"54.188818","Lng":"19.424408500000027"},{"id":"143","miasto":"Elbl\u0105g","ulica":"Bulwar Zygmunta Augusta 12","nazwa":"Jump Fitness","Lat":"54.156043","Lng":"19.39339700000005"},{"id":"203","miasto":"Elbl\u0105g","ulica":"Robotnicza 236","nazwa":"Port Fit","Lat":"54.182635","Lng":"19.401115900000036"}],"E\u0142k":[{"id":"196","miasto":"E\u0142k","ulica":"Plac Miejski 1","nazwa":"Calypso Fitness Club E\u0142k","Lat":"53.8229554","Lng":"22.361361999999986"}],"Gda\u0144sk":[{"id":"11","miasto":"Gda\u0144sk","ulica":"Obro\u0144c\u00f3w Wybrze\u017ca 1","nazwa":"Calypso Fitness Club Gda\u0144sk Galeria Przymorze","Lat":"54.4106108","Lng":"18.59374619999994"},{"id":"27","miasto":"Gda\u0144sk","ulica":"Staropolska 32","nazwa":"Calypso Fitness Club Gda\u0144sk Kowale","Lat":"54.31151149999999","Lng":"18.56751559999998"},{"id":"49","miasto":"Gda\u0144sk","ulica":"Jelitkowska 20","nazwa":"Marina Wellness Center","Lat":"54.427926","Lng":"18.590898599999946"},{"id":"94","miasto":"Gda\u0144sk","ulica":"Cienista 30","nazwa":"Premium Fitness & Gym Gda\u0144sk Che\u0142m 24h","Lat":"54.3365519","Lng":"18.62075649999997"},{"id":"93","miasto":"Gda\u0144sk","ulica":"Antoniego Dobrowolskiego 6","nazwa":"Premium Fitness & Gym Gda\u0144sk Morena","Lat":"54.36097150000001","Lng":"18.587142599999993"},{"id":"115","miasto":"Gda\u0144sk","ulica":"Wajdeloty 28","nazwa":"Matrix Fitness Gda\u0144sk","Lat":"54.3813138","Lng":"18.61332390000007"},{"id":"178","miasto":"Gda\u0144sk","ulica":"al. Grunwaldzka 229","nazwa":"CrossCoreBox","Lat":"54.37766269999999","Lng":"18.608359199999995"},{"id":"149","miasto":"Gda\u0144sk","ulica":"Rajska 10","nazwa":"Calypso Fitness Club Gda\u0144sk Madison","Lat":"54.35645","Lng":"18.649013100000047"},{"id":"184","miasto":"Gda\u0144sk","ulica":"Kapliczna 30","nazwa":"Beauty Derm Instytut","Lat":"54.422829","Lng":"18.597134900000015"},{"id":"201","miasto":"Gda\u0144sk","ulica":"Schuberta 102A","nazwa":"Calypso Fitness Club Gda\u0144sk Morena","Lat":"54.352239","Lng":"18.593030999999996"},{"id":"288","miasto":"Gda\u0144sk","ulica":"Hynka 69","nazwa":"FORFIT Studio Sylwetki Zaspa","Lat":"54.3908543","Lng":"18.59193849999997"},{"id":"199","miasto":"Gda\u0144sk","ulica":"Al. Rzeczypospolitej 33","nazwa":"Calypso Fitness Club Gda\u0144sk Zaspa","Lat":"54.389678","Lng":"18.60983699999997"},{"id":"214","miasto":"Gda\u0144sk","ulica":"Kartuska 422a","nazwa":"Fitness Leon","Lat":"54.345648","Lng":"18.532587000000035"},{"id":"287","miasto":"Gda\u0144sk","ulica":"Cha\u0142ubi\u0144skiego 13 (w budynku p\u0142ywalni)","nazwa":"FORFIT Studio Sylwetki Che\u0142m","Lat":"54.3396574","Lng":"18.620872599999984"},{"id":"363","miasto":"Gda\u0144sk","ulica":"ul. Kurier\u00f3w Armii Krajowej 15","nazwa":"City Fitness Gda\u0144sk Po\u0142udnie","Lat":"54.324537","Lng":"18.609977800000024"},{"id":"376","miasto":"Gda\u0144sk","ulica":"ul. D\u0105browszczak\u00f3w 11","nazwa":"STRONG SCHAB FITNESS","Lat":"54.415294","Lng":"18.597701899999947"}],"Gdynia":[{"id":"150","miasto":"Gdynia","ulica":"Plac Kaszubski 17 lok. 102","nazwa":"Fitness Club S4 Gdynia","Lat":"54.5218661","Lng":"18.543254299999944"},{"id":"235","miasto":"Gdynia","ulica":"Morska 89","nazwa":"Activ Studio Rekreacji MORSKA","Lat":"54.527291","Lng":"18.509141"},{"id":"255","miasto":"Gdynia","ulica":"Nagietkowa 73","nazwa":"Activ Studio Rekreacji D\u0105browa ","Lat":"54.4713343","Lng":"18.46044489999997"},{"id":"302","miasto":"Gdynia","ulica":"Al. Zwyci\u0119stwa 256","nazwa":"Calypso Fitness Club Gdynia Klif","Lat":"54.4743043","Lng":"18.551942499999996"},{"id":"328","miasto":"Gdynia","ulica":"ul. Wielkokacka 2","nazwa":"Calypso Fitness Club Gdynia Witawa","Lat":"54.49779299999999","Lng":"18.50887990000001"}],"Gliwice":[{"id":"101","miasto":"Gliwice","ulica":"Czwartak\u00f3w 13","nazwa":"Si\u0142ownia Herkules","Lat":"50.2996799","Lng":"18.644845900000064"},{"id":"109","miasto":"Gliwice","ulica":"G\u00f3rnych Wa\u0142\u00f3w 29","nazwa":"Open Sport \u2013 Hala Gliwice 24H","Lat":"50.2935109","Lng":"18.662033899999983"},{"id":"345","miasto":"Gliwice","ulica":"ul. \u017bwirki i Wigury 66","nazwa":"Xtreme Fitness Gliwice","Lat":"50.28124529999999","Lng":"18.671048400000018"}],"Gniezno":[{"id":"227","miasto":"Gniezno","ulica":"Mieszka I 28","nazwa":"Magiel Kultura Fizyczna","Lat":"52.53346990000001","Lng":"17.59807790000002"},{"id":"333","miasto":"Gniezno","ulica":"ul. Artyleryjska 1","nazwa":"REGIMENT SHAPE GNIEZNO","Lat":"52.5141287","Lng":"17.595898600000055"}],"Jas\u0142o":[{"id":"374","miasto":"Jas\u0142o","ulica":"ul. Polskiego Czerwonego Krzy\u017ca 2","nazwa":"Xtreme Fitness Jas\u0142o","Lat":"49.74861019999999","Lng":"21.4717306"}],"Jastrz\u0119bie-Zdr\u00f3j":[{"id":"241","miasto":"Jastrz\u0119bie-Zdr\u00f3j","ulica":"Prosta 4","nazwa":"Kopalnia Formy","Lat":"49.9494543","Lng":"18.583473300000037"}],"Katowice":[{"id":"56","miasto":"Katowice","ulica":"Gen. Pu\u0142askiego 60","nazwa":"Fitness Academy 3 Stawy","Lat":"50.2433114","Lng":"19.037433400000054"},{"id":"64","miasto":"Katowice","ulica":"Ceglana 67C","nazwa":"Fitness Fun","Lat":"50.2425829","Lng":"19.010891000000015"},{"id":"147","miasto":"Katowice","ulica":"Medyk\u00f3w 2","nazwa":"ACADEMY AEROBIC","Lat":"50.22609929999999","Lng":"18.947452200000043"},{"id":"164","miasto":"Katowice","ulica":"Miko\u0142owska 72A","nazwa":"Si\u0142ownia Olimp","Lat":"50.2500315","Lng":"19.003955099999985"},{"id":"233","miasto":"Katowice","ulica":"Uniwersytecka 18","nazwa":"Fitness Academy Silesia Star","Lat":"50.262532","Lng":"19.02728400000001"},{"id":"307","miasto":"Katowice","ulica":"Skargi 6","nazwa":"Calypso Fitness Club Katowice Supersam","Lat":"50.2616375","Lng":"19.01930100000004"},{"id":"313","miasto":"Katowice","ulica":"Chorzowska 111","nazwa":"Calypso Fitness Club Katowice Silesia ","Lat":"50.2681097","Lng":"19.00858100000005"}],"K\u0119dzierzyn-Ko\u017ale":[{"id":"348","miasto":"K\u0119dzierzyn-Ko\u017ale","ulica":"al. Armii Krajowej 38","nazwa":"Xtreme Fitness K\u0118DZIERZYN KO\u0179LE","Lat":"50.347938","Lng":"18.20248259999994"}],"Kielce":[{"id":"265","miasto":"Kielce","ulica":"Jagiello\u0144ska 62","nazwa":"FITNESS CLUB TAO","Lat":"50.8751715","Lng":"20.607479000000012"},{"id":"254","miasto":"Kielce","ulica":"Kochanowskiego 8\/3","nazwa":"Sport Factory","Lat":"50.8523807","Lng":"20.630023700000038"},{"id":"381","miasto":"Kielce","ulica":"ul. 1 Maja 191","nazwa":"\u015awi\u0119tokrzyskie Centrum Sportu","Lat":"50.8962839","Lng":"20.6021078"}],"Konin":[{"id":"34","miasto":"Konin","ulica":"Ogrodowa 31C","nazwa":"Calypso Fitness Club Konin","Lat":"52.2276699","Lng":"18.241173000000003"},{"id":"41","miasto":"Konin","ulica":"Szymanowskiego 5a","nazwa":"Studio Impuls","Lat":"52.2356729","Lng":"18.252656"},{"id":"236","miasto":"Konin","ulica":"Plac Zamkowy 14","nazwa":"Strefa Sport & Fitness","Lat":"52.2107393","Lng":"18.252615399999968"},{"id":"341","miasto":"Konin","ulica":"ul. 3 Maja 35","nazwa":"Persona Sport","Lat":"52.2065157","Lng":"18.25450569999998"}],"Krak\u00f3w":[{"id":"57","miasto":"Krak\u00f3w","ulica":"Powst. Wielkopolskich 18 B","nazwa":"Fitness Academy King Square","Lat":"50.0435122","Lng":"19.96945740000001"},{"id":"61","miasto":"Krak\u00f3w","ulica":"Krakowska 280 - Zabierz\u00f3w","nazwa":"Manufaktura Zdrowia","Lat":"50.106841","Lng":"19.825175599999966"},{"id":"62","miasto":"Krak\u00f3w","ulica":"Wroc\u0142awska 28","nazwa":"Energym Centrum","Lat":"50.07601589999999","Lng":"19.928228900000022"},{"id":"63","miasto":"Krak\u00f3w","ulica":"os. Kolorowe 33","nazwa":"Energym Czy\u017cyny","Lat":"50.0745111","Lng":"20.022394899999995"},{"id":"360","miasto":"Krak\u00f3w","ulica":"os. Niepodleg\u0142o\u015bci 3","nazwa":"Fitness Club Lejdis","Lat":"50.0822382","Lng":"20.0221272"},{"id":"95","miasto":"Krak\u00f3w","ulica":"Zab\u0142ocie 20-22","nazwa":"Gympark","Lat":"50.05031899999999","Lng":"19.966149299999984"},{"id":"108","miasto":"Krak\u00f3w","ulica":"Henryka Pacho\u0144skiego 8","nazwa":"Body Paradise","Lat":"50.09459529999999","Lng":"19.927510100000063"},{"id":"110","miasto":"Krak\u00f3w","ulica":"Ku\u017anicy Ko\u0142\u0142\u0105tajowskiej 13","nazwa":"Soul Fitness","Lat":"50.0976","Lng":"19.95923199999993"},{"id":"246","miasto":"Krak\u00f3w","ulica":"Rusznikarska 14","nazwa":"Magic Fit","Lat":"50.08741209999999","Lng":"19.92602069999998"},{"id":"300","miasto":"Krak\u00f3w","ulica":"Podg\u00f3rska 34","nazwa":"Calypso Fitness Club Krak\u00f3w Galeria Kazimierz","Lat":"50.0547875","Lng":"19.955149900000038"},{"id":"319","miasto":"Krak\u00f3w","ulica":"Na Lotnisku 11","nazwa":"Wild Power Gym","Lat":"50.0865359","Lng":"20.014300700000035"},{"id":"380","miasto":"Krak\u00f3w","ulica":"Ludwinowska 11","nazwa":"Lemon Fitness","Lat":"50.043783","Lng":"19.937376900000004"},{"id":"369","miasto":"Krak\u00f3w","ulica":"os. Teatralne 10","nazwa":"Active Niuton O\u015brodek Promocji Zdrowia","Lat":"50.0790228","Lng":"20.030790900000056"}],"Legionowo":[{"id":"269","miasto":"Legionowo","ulica":"Warszawska 60B","nazwa":"Renovatio Fitness & Gym","Lat":"52.3929763","Lng":"20.934886199999937"},{"id":"268","miasto":"Legionowo","ulica":"Warszawska 60","nazwa":"Sandow","Lat":"52.3927","Lng":"20.934312999999975"},{"id":"191","miasto":"Legionowo","ulica":"Mrugacza 1","nazwa":"Bonifit Fitness Club","Lat":"52.3957284","Lng":"20.933596299999977"}],"Legnica":[{"id":"195","miasto":"Legnica","ulica":"Naj\u015bwi\u0119tszej Marii Panny 9","nazwa":"Fitness Academy Express Legnica","Lat":"51.209486","Lng":"16.16433889999996"}],"Lublin":[{"id":"153","miasto":"Lublin","ulica":"Watyka\u0144ska 4","nazwa":"ArenA Fitness Club","Lat":"51.2285349","Lng":"22.522874"},{"id":"154","miasto":"Lublin","ulica":"Pogodna 28A","nazwa":"Olimpia Fitness Club","Lat":"51.235509","Lng":"22.591294999999946"},{"id":"155","miasto":"Lublin","ulica":"Spadochroniarzy 7","nazwa":"Sport Club","Lat":"51.2488685","Lng":"22.53046649999999"},{"id":"248","miasto":"Lublin","ulica":"Ul. Hetma\u0144ska 2","nazwa":"Formu\u0142a Fitness","Lat":"51.2339002","Lng":"22.499197200000026"},{"id":"286","miasto":"Lublin","ulica":"Wojciechowska 7B","nazwa":"FIT KLUB Centrum Sportowe","Lat":"51.247527","Lng":"22.510572899999943"},{"id":"318","miasto":"Lublin","ulica":"Stadionowa 1","nazwa":"Fit&Gym AZS ","Lat":"51.2330779","Lng":"22.55996479999999"},{"id":"320","miasto":"Lublin","ulica":"Jana Sawy 6","nazwa":"Or Be Fit","Lat":"51.238167","Lng":"22.526206399999978"}],"Lubo\u0144":[{"id":"332","miasto":"Lubo\u0144","ulica":"\u017babikowska 66","nazwa":"Atlantis Fitness III","Lat":"52.3499239","Lng":"16.87950969999997"}],"\u0141omianki":[{"id":"276","miasto":"\u0141omianki","ulica":"Staszica 2","nazwa":"ICDS Fitness Club","Lat":"52.3438828","Lng":"20.875016500000015"}],"\u0141\u00f3d\u017a":[{"id":"314","miasto":"\u0141\u00f3d\u017a","ulica":"Pi\u0142sudskiego 135","nazwa":"Energy Fitness Club \u0141\u00f3d\u017a Widzew","Lat":"51.7620817","Lng":"19.503425300000004"},{"id":"264","miasto":"\u0141\u00f3d\u017a","ulica":" Limanowskiego 166","nazwa":"Cross Rage","Lat":"51.7810162","Lng":"19.44164699999999"},{"id":"126","miasto":"\u0141\u00f3d\u017a","ulica":"Legion\u00f3w 16","nazwa":"ENERGY FITNESS CLUB \u015aR\u00d3DMIE\u015aCIE","Lat":"51.7760449","Lng":"19.45093399999996"},{"id":"132","miasto":"\u0141\u00f3d\u017a","ulica":"Rokici\u0144ska 142","nazwa":"Revers","Lat":"51.75810689999999","Lng":"19.555450899999983"},{"id":"145","miasto":"\u0141\u00f3d\u017a","ulica":"Zjazdowa 13","nazwa":"Natural Fit","Lat":"51.798324","Lng":"19.52914099999998"},{"id":"202","miasto":"\u0141\u00f3d\u017a","ulica":"Marato\u0144ska 111","nazwa":"Energy Fitness Club \u0141\u00f3d\u017a Retkina","Lat":"51.7367101","Lng":"19.383437400000048"},{"id":"260","miasto":"\u0141\u00f3d\u017a","ulica":"\u0141agiewnicka 118A","nazwa":"Energy Fitness Club \u0141\u00f3d\u017a Ba\u0142uty","Lat":"51.7992239","Lng":"19.455382900000018"},{"id":"321","miasto":"\u0141\u00f3d\u017a","ulica":"Al. Pi\u0142sudskiego 6","nazwa":"Sportera Fitness","Lat":"51.76007389999999","Lng":"19.45962839999993"},{"id":"336","miasto":"\u0141\u00f3d\u017a","ulica":"Kardyna\u0142a Stefana Wyszy\u0144skiego 29","nazwa":"Speedlife Retkinia","Lat":"51.7465868","Lng":"19.39715350000006"},{"id":"337","miasto":"\u0141\u00f3d\u017a","ulica":"W\u0142adys\u0142awa \u0141okietka 2","nazwa":"Speedlife Chojny","Lat":"51.7172999","Lng":"19.49539989999994"},{"id":"373","miasto":"\u0141\u00f3d\u017a","ulica":"ul. Pomorska 39","nazwa":"Energy Fitness \u0141\u00f3d\u017a Fabryczna","Lat":"51.777336","Lng":"19.463821999999936"}],"Marki":[{"id":"243","miasto":"Marki","ulica":"Mickiewicza 41","nazwa":"OLIMPIK PARK Marki","Lat":"52.326623","Lng":"21.091671899999938"}],"Mielec":[{"id":"217","miasto":"Mielec","ulica":"Powsta\u0144c\u00f3w Warszawy 4","nazwa":"Calypso Fitness Mielec Navigator","Lat":"50.2832898","Lng":"21.466421800000035"}],"Mi\u0144sk Mazowiecki":[{"id":"340","miasto":"Mi\u0144sk Mazowiecki","ulica":"ul. Pi\u0142sudskiego 43","nazwa":"IMPERIUM Si\u0142ownia&Fitness","Lat":"52.1761963","Lng":"21.55812919999994"}],"Mys\u0142owice":[{"id":"357","miasto":"Mys\u0142owice","ulica":"Bo\u0144czyka 80","nazwa":"Max-Gym Mys\u0142owice","Lat":"50.247764","Lng":"19.115968000000066"}],"Nowy Dw\u00f3r Mazowiecki":[{"id":"339","miasto":"Nowy Dw\u00f3r Mazowiecki","ulica":"ul. Okunin 128A","nazwa":"Akademia Zdrowia Lejdis","Lat":"52.4307291","Lng":"20.738623299999972"}],"Nowy S\u0105cz":[{"id":"344","miasto":"Nowy S\u0105cz","ulica":"ul. Zamenhofa 6","nazwa":"Xtreme Fitness Nowy S\u0105cz","Lat":"49.608491","Lng":"20.70344190000003"}],"Nowy Targ":[{"id":"355","miasto":"Nowy Targ","ulica":"Lud\u017amierska 26A","nazwa":"Xtreme Fitness Nowy Targ","Lat":"49.4742921","Lng":"20.007738700000004"}],"Olsztyn":[{"id":"323","miasto":"Olsztyn","ulica":"Marka Kota\u0144skiego 2","nazwa":"Fitness Park Olsztyn","Lat":"53.7803273","Lng":"20.469004799999993"},{"id":"208","miasto":"Olsztyn","ulica":"K\u0119trzy\u0144skiego 5","nazwa":"Body Perfect","Lat":"53.7823277","Lng":"20.495828200000005"},{"id":"245","miasto":"Olsztyn","ulica":"Ul.Turowskiego 3 O\u015b. Nag\u00f3rki","nazwa":"Berserker's Team","Lat":"53.75092530000001","Lng":"20.496328800000015"},{"id":"256","miasto":"Olsztyn","ulica":"Metalowa 7","nazwa":"Fitness Club Athletic ","Lat":"53.7560757","Lng":"20.498246999999992"}],"Opole":[{"id":"266","miasto":"Opole","ulica":"Ko\u015bciuszki 17","nazwa":"INSTYTUT \u0106WICZE\u0143 PSYCHOFIZYCZNYCH ZEN","Lat":"50.6662872","Lng":"17.928103899999996"},{"id":"204","miasto":"Opole","ulica":"Zawada, D\u0119bowa 1","nazwa":"Calypso Fitness Club Opole","Lat":"50.68429039999999","Lng":"17.979584799999998"},{"id":"207","miasto":"Opole","ulica":"Grota Roweckiego 17 b","nazwa":"Oxide Fitness Club","Lat":"50.6803223","Lng":"17.94565119999993"}],"Ostrowiec \u015awi\u0119tokrzyski":[{"id":"375","miasto":"Ostrowiec \u015awi\u0119tokrzyski","ulica":"Al. 3 Maja 17","nazwa":"Xtreme Fitness Ostrowiec \u015awi\u0119tokrzyski","Lat":"50.9340172","Lng":"21.386973600000033"}],"Piaseczno":[{"id":"5","miasto":"Piaseczno","ulica":"Pawia 11, Piaseczno","nazwa":"ZDROFIT PIASECZNO - Pawia","Lat":"52.0793912","Lng":"21.010463399999935"},{"id":"271","miasto":"Piaseczno","ulica":"Dworcowa 15","nazwa":"Fitness For Ladies","Lat":"52.069021","Lng":"21.016276999999945"}],"Piast\u00f3w":[{"id":"315","miasto":"Piast\u00f3w","ulica":"Warszawska 43","nazwa":"ZDROFIT PIAST\u00d3W - Pasa\u017c Warszawska","Lat":"52.183854","Lng":"20.838896100000056"}],"Pi\u0142a":[{"id":"111","miasto":"Pi\u0142a","ulica":"14 lutego 26","nazwa":"Calypso Fitness Club Pi\u0142a","Lat":"53.14461","Lng":"16.7448799"},{"id":"135","miasto":"Pi\u0142a","ulica":"Wyspia\u0144skiego 29","nazwa":"Fitness ELEMENT Club","Lat":"53.14825159999999","Lng":"16.718631800000026"}],"Pozna\u0144":[{"id":"89","miasto":"Pozna\u0144","ulica":"Feliksa Nowowiejskiego 8","nazwa":"Magiel Fitness Klub","Lat":"52.4093124","Lng":"16.927029500000003"},{"id":"45","miasto":"Pozna\u0144","ulica":"Obornicka 85","nazwa":"Fabryka Formy Galeria Sucholeska Suchy Las","Lat":"52.47284089999999","Lng":"16.87580600000001"},{"id":"47","miasto":"Pozna\u0144","ulica":"Osiedle Piastowskie 25","nazwa":"S\u0142odkiewicz GYM & FITNESS","Lat":"52.3947541","Lng":"16.94498479999993"},{"id":"78","miasto":"Pozna\u0144","ulica":"Droga D\u0119bi\u0144ska 10c","nazwa":"CITYZEN","Lat":"52.3950918","Lng":"16.931614800000034"},{"id":"85","miasto":"Pozna\u0144","ulica":"Boles\u0142awa Krzywoustego 72","nazwa":"Fabryka Formy Kinepolis","Lat":"52.3736249","Lng":"16.98082499999998"},{"id":"80","miasto":"Pozna\u0144","ulica":"Z\u0142otowska 86","nazwa":"New Atlantis Fitness 24h","Lat":"52.407733","Lng":"16.8197179"},{"id":"81","miasto":"Pozna\u0144","ulica":"Mylna 40","nazwa":"Fit Expert","Lat":"52.41491","Lng":"16.907657900000004"},{"id":"140","miasto":"Pozna\u0144","ulica":"Zamenhofa 133","nazwa":"Energy Fitness Club Rataje","Lat":"52.3824011","Lng":"16.94604329999993"},{"id":"107","miasto":"Pozna\u0144","ulica":"Romana Dmowskiego 121","nazwa":"Alfa Fitness Stars","Lat":"52.3829466","Lng":"16.892589199999975"},{"id":"166","miasto":"Pozna\u0144","ulica":"G\u00f3recka 30","nazwa":"EGURROLA FITNESS CLUB POZNA\u0143","Lat":"52.3810361","Lng":"16.89579649999996"},{"id":"262","miasto":"Pozna\u0144","ulica":"ul. Jeleniog\u00f3rska 10","nazwa":"Klub Fitness Be Beautiful & Fit","Lat":"52.3887885","Lng":"16.853546300000062"},{"id":"152","miasto":"Pozna\u0144","ulica":"Wojciechowskiego 20","nazwa":"Centrum Urody i Fitnessu","Lat":"52.43810269999999","Lng":"16.9235946"},{"id":"162","miasto":"Pozna\u0144","ulica":"Wio\u015blarska 72","nazwa":"Przysta\u0144 Posnania","Lat":"52.3953783","Lng":"16.94239140000002"},{"id":"324","miasto":"Pozna\u0144","ulica":"Piaskowa 3d\/1","nazwa":"Si\u0142ownia i fitness Elitegym","Lat":"52.41120850000001","Lng":"16.93899090000002"},{"id":"289","miasto":"Pozna\u0144","ulica":"Jackowskiego 22","nazwa":"Kompleks Rekreacyjny Sukces Si\u0142ownia & Aerobik ","Lat":"52.40974319999999","Lng":"16.900003800000036"},{"id":"259","miasto":"Pozna\u0144","ulica":"Jana Spychalskiego 34","nazwa":"Saturn Fitness","Lat":"52.3943023","Lng":"16.92752799999994"},{"id":"325","miasto":"Pozna\u0144","ulica":"ul. 28 Czerwca 1956 r. nr 222","nazwa":"CENTRUM SPORTOWE HALKOWNIA","Lat":"52.3813445","Lng":"16.910597999999936"},{"id":"330","miasto":"Pozna\u0144","ulica":"Marceli\u0144ska 27","nazwa":"Body Lab One Marceli\u0144ska","Lat":"52.405732","Lng":"16.88976189999994"},{"id":"331","miasto":"Pozna\u0144","ulica":"ul. Naramowicka 150B","nazwa":"Body Lab One Naramowicka","Lat":"52.445561","Lng":"16.94753300000002"},{"id":"335","miasto":"Pozna\u0144","ulica":"ul. Smoluchowskiego 15","nazwa":"Centrum Fitness Olymp","Lat":"52.3944395","Lng":"16.84728629999995"}],"Pruszk\u00f3w ":[{"id":"294","miasto":"Pruszk\u00f3w ","ulica":"Boles\u0142awa Prusa 12","nazwa":"Energy Fitness Club Pruszk\u00f3w Tylko dla Kobiet ","Lat":"52.1666227","Lng":"20.808424100000025"}],"Przemy\u015bl":[{"id":"372","miasto":"Przemy\u015bl","ulica":"ul. Mickiewicza 28A","nazwa":"Xtreme Fitness Przemy\u015bl","Lat":"49.781881","Lng":"22.782151"}],"Radom":[{"id":"261","miasto":"Radom","ulica":"ul.T.Kotarbi\u0144skiego 2","nazwa":"Fitness Klub OLYMP","Lat":"51.4112733","Lng":"21.179043399999955"},{"id":"240","miasto":"Radom","ulica":"Wy\u015bcigowa 49 ","nazwa":"Neptun Si\u0142ownia&Fitness","Lat":"51.3760457","Lng":"21.171919500000058"}],"Rawa Mazowiecka":[{"id":"198","miasto":"Rawa Mazowiecka","ulica":"Jerozolimska 3","nazwa":"Premium Fitness & Gym Rawa Mazowiecka","Lat":"51.7676853","Lng":"20.259691400000065"}],"Ruda \u015al\u0105ska":[{"id":"351","miasto":"Ruda \u015al\u0105ska","ulica":"Drozd\u00f3w 1","nazwa":"Xtreme Fitness RUDA \u015aL\u0104SKA ","Lat":"50.269717","Lng":"18.885336999999936"}],"Rumia":[{"id":"285","miasto":"Rumia","ulica":"Sobieskiego 14A","nazwa":"Calypso Fitness Club Rumia","Lat":"54.563775","Lng":"18.391721899999993"}],"Rzesz\u00f3w":[{"id":"8","miasto":"Rzesz\u00f3w","ulica":"Hetma\u0144ska 40A","nazwa":"Calypso Fitness Club Rzesz\u00f3w Hetma\u0144ska","Lat":"50.0213899","Lng":"21.99345100000005"},{"id":"9","miasto":"Rzesz\u00f3w","ulica":"Krakowska 20","nazwa":"Calypso Fitness Club Rzesz\u00f3w Galeria Nowy \u015awiat","Lat":"50.0494214","Lng":"21.97415860000001"},{"id":"22","miasto":"Rzesz\u00f3w","ulica":"Pu\u0142askiego 13","nazwa":"Extreme Si\u0142ownia & Fitness Rzesz\u00f3w","Lat":"50.0386994","Lng":"21.9921736"},{"id":"24","miasto":"Rzesz\u00f3w","ulica":"Lisa Kuli 19","nazwa":"Cool Gym Rzesz\u00f3w","Lat":"50.0358494","Lng":"21.996826800000008"},{"id":"293","miasto":"Rzesz\u00f3w","ulica":"Al. Majora Wac\u0142awa Kopisto 1","nazwa":"Calypso Fitness Club Rzesz\u00f3w Millenium Hall","Lat":"50.0270747","Lng":"22.01380370000004"},{"id":"292","miasto":"Rzesz\u00f3w","ulica":"Profesora Ludwika Chmaja 4","nazwa":"Hell Gym","Lat":"50.0294154","Lng":"21.98638219999998"},{"id":"377","miasto":"Rzesz\u00f3w","ulica":"Aleja J\u00f3zefa Pi\u0142sudskiego 34, 3 pi\u0119tro","nazwa":"Strefa Sport\u00f3w Walki ARTFIGHT","Lat":"50.0412385","Lng":"22.00387980000005"}],"Siedlce":[{"id":"96","miasto":"Siedlce","ulica":"Pi\u0142sudskiego 74","nazwa":"Calypso Fitness Club Siedlce","Lat":"52.1681361","Lng":"22.269671700000004"},{"id":"322","miasto":"Siedlce","ulica":"Soko\u0142owska 47","nazwa":"SALUS REHMEDICA","Lat":"52.1751674","Lng":"22.27122209999993"},{"id":"291","miasto":"Siedlce","ulica":"Warszawska 31","nazwa":"Ku\u017ania Formy - Si\u0142ownia & Fitness","Lat":"52.16681690000001","Lng":"22.254296899999986"},{"id":"280","miasto":"Siedlce","ulica":"Morska 7","nazwa":"Atlas Gym","Lat":"52.1675276","Lng":"22.276175700000067"},{"id":"301","miasto":"Siedlce","ulica":"3-go Maja 53","nazwa":"Genesis Si\u0142ownia&CrossBox","Lat":"52.175075","Lng":"22.271955899999966"},{"id":"334","miasto":"Siedlce","ulica":"10 Lutego 15","nazwa":"Gorilla Gym","Lat":"52.1694845","Lng":"22.265227500000037"}],"Skawina":[{"id":"371","miasto":"Skawina","ulica":"ul. 29 Listopada 21","nazwa":"Xtreme Fitness Skawina","Lat":"49.9734562","Lng":"19.830458300000032"}],"S\u0142upsk  ":[{"id":"362","miasto":"S\u0142upsk  ","ulica":"ul. 11 listopada 17","nazwa":"City Fitness S\u0142upsk","Lat":"54.4648406","Lng":"16.988800999999967"}],"Sochaczew":[{"id":"354","miasto":"Sochaczew","ulica":"Warszawska 37","nazwa":"Xtreme Fitness Sochaczew","Lat":"52.229024","Lng":"20.24323340000001"}],"Sopot":[{"id":"12","miasto":"Sopot","ulica":"al. Niepodleg\u0142o\u015bci 697-701","nazwa":"Calypso Fitness Club Sopot Sopocki Skwer 24h","Lat":"54.4329712","Lng":"18.562575100000004"}],"Sosnowiec":[{"id":"122","miasto":"Sosnowiec","ulica":"Ciasna 10","nazwa":"POWER-FIT 1","Lat":"50.2769679","Lng":"19.116892000000007"},{"id":"281","miasto":"Sosnowiec","ulica":"Gabriela Narutowicza 51A","nazwa":"Centrum Rozrywki Sosnowiec Si\u0142ownia MAX-GYM ","Lat":"50.2808515","Lng":"19.14904750000005"},{"id":"353","miasto":"Sosnowiec","ulica":"Braci Mieroszewskich 120","nazwa":"Xtreme Fitness Sosnowiec","Lat":"50.3049234","Lng":"19.189677200000006"}],"Suwa\u0142ki":[{"id":"138","miasto":"Suwa\u0142ki","ulica":"Ko\u015bciuszki 128","nazwa":"Calypso Fitness Club Suwa\u0142ki","Lat":"54.10679649999999","Lng":"22.92816259999995"}],"Szczecin":[{"id":"26","miasto":"Szczecin","ulica":"Al. Piast\u00f3w 30","nazwa":"Calypso Fitness Club Szczecin","Lat":"53.4182911","Lng":"14.531341800000064"},{"id":"210","miasto":"Szczecin","ulica":"J\u00f3zefa Korzeniowskiego 7","nazwa":"Sports Factory","Lat":"53.4200074","Lng":"14.55097950000004"},{"id":"98","miasto":"Szczecin","ulica":"Al. Wojska Polskiego 39A","nazwa":"Universum Fitness Club","Lat":"53.4303369","Lng":"14.542741999999976"},{"id":"114","miasto":"Szczecin","ulica":"Policka 51","nazwa":"NorthGym Fitness Club","Lat":"53.495863","Lng":"14.590173999999934"},{"id":"251","miasto":"Szczecin","ulica":"Europejska 31","nazwa":"Fit Town Klub Fitness","Lat":"53.4117957","Lng":"14.492423099999996"},{"id":"142","miasto":"Szczecin","ulica":"Andrzeja Struga 31","nazwa":"Calypso Fitness Club Szczecin Marcredo","Lat":"53.38381460000001","Lng":"14.669693400000028"},{"id":"358","miasto":"Szczecin","ulica":"Struga 15","nazwa":"Sportfit Squash & Fitness","Lat":"53.384778","Lng":"14.6525733"},{"id":"263","miasto":"Szczecin","ulica":"Struga 70","nazwa":"Klub CF Prawy Brzeg","Lat":"53.38040299999999","Lng":"14.674972000000025"},{"id":"308","miasto":"Szczecin","ulica":"Andrzeja Struga 42","nazwa":"Calypso Fitness Club Szczecin Outlet Park","Lat":"53.3816115","Lng":"14.66945540000006"},{"id":"279","miasto":"Szczecin","ulica":"Al. Wyzwolenia 18\/20","nazwa":"Calypso Fitness Club Szczecin Galaxy","Lat":"53.4337619","Lng":"14.555873099999985"},{"id":"316","miasto":"Szczecin","ulica":"Niepodleg\u0142o\u015bci 36","nazwa":"Calypso Fitness Club Szczecin Kaskada","Lat":"53.4281269","Lng":"14.551584000000048"},{"id":"368","miasto":"Szczecin","ulica":"ul. Szafera 196 ","nazwa":"Studio Fitness Forma","Lat":"53.45668","Lng":"14.496339000000035"}],"Tarnowskie G\u00f3ry":[{"id":"378","miasto":"Tarnowskie G\u00f3ry","ulica":"ul. Wojska Polskiego 4","nazwa":"Xtreme Fitness Tarnowskie G\u00f3ry","Lat":"50.4515498","Lng":"18.856264900000042"}],"Tarn\u00f3w":[{"id":"343","miasto":"Tarn\u00f3w","ulica":"ul. Widok 29","nazwa":"Xtreme Fitness Tarn\u00f3w Widok","Lat":"50.0177886","Lng":"20.99750210000002"},{"id":"346","miasto":"Tarn\u00f3w","ulica":"B\u0142onie 2","nazwa":"Xtreme Fitness Tarn\u00f3w B\u0142onie","Lat":"50.036058","Lng":"21.005609999999933"}],"Toru\u0144":[{"id":"278","miasto":"Toru\u0144","ulica":"Szosa Che\u0142mi\u0144ska 177-181","nazwa":"Si\u0142ownia Mentor Sport ","Lat":"53.0428495","Lng":"18.579958300000044"},{"id":"139","miasto":"Toru\u0144","ulica":"Rydygiera 30\/32","nazwa":"Fitness Club S4 Toru\u0144","Lat":"53.02988999999999","Lng":"18.651147400000013"},{"id":"193","miasto":"Toru\u0144","ulica":"Bema 73-89","nazwa":"Champion Gym&Fitness","Lat":"53.0177232","Lng":"18.58834139999999"},{"id":"356","miasto":"Toru\u0144","ulica":"Wojska Polskiego 43\/45","nazwa":"Fitness Klub TKKF","Lat":"53.0197629","Lng":"18.617797800000062"}],"Warszawa":[{"id":"1","miasto":"Warszawa","ulica":"Pu\u0142awska 17","nazwa":"ZDROFIT MOKOT\u00d3W - Europlex ","Lat":"52.210079","Lng":"21.022354899999982"},{"id":"2","miasto":"Warszawa","ulica":"Pu\u0142awska 427","nazwa":"ZDROFIT URSYN\u00d3W - Pu\u0142awska ","Lat":"52.14211","Lng":"21.02071"},{"id":"3","miasto":"Warszawa","ulica":"G\u00f3rczewska 124","nazwa":"ZDROFIT WOLA - Wola Park","Lat":"52.2413989","Lng":"20.93108689999997"},{"id":"4","miasto":"Warszawa","ulica":"Post\u0119pu 17 a","nazwa":"Calypso Fitness Club Adgar Plaza","Lat":"52.180979","Lng":"20.996923000000038"},{"id":"6","miasto":"Warszawa","ulica":"Dalanowska 46\/U3","nazwa":"Calypso Fitness Club Targ\u00f3wek","Lat":"52.2760307","Lng":"21.048674699999992"},{"id":"7","miasto":"Warszawa","ulica":"Armii Ludowej 26","nazwa":"Calypso Fitness Club Focus","Lat":"52.217808","Lng":"21.00817230000007"},{"id":"13","miasto":"Warszawa","ulica":"Grochowska 170","nazwa":"Energy Fitness Club Groch\u00f3w","Lat":"52.2445199","Lng":"21.09412700000007"},{"id":"14","miasto":"Warszawa","ulica":"Egipska 4","nazwa":"Energy Fitness Club Saska K\u0119pa","Lat":"52.225535","Lng":"21.070059000000015"},{"id":"15","miasto":"Warszawa","ulica":"Biela\u0144ska 4A","nazwa":"Energy Fitness Club Centrum Biela\u0144ska","Lat":"52.244313","Lng":"21.007398999999964"},{"id":"16","miasto":"Warszawa","ulica":"Antalla 5","nazwa":"Energy Fitness Club Tarchomin","Lat":"52.3141776","Lng":"20.957018199999993"},{"id":"17","miasto":"Warszawa","ulica":"G\u00f3rczewska 129","nazwa":"Energy Fitness Club Wola","Lat":"52.2394009","Lng":"20.93996470000002"},{"id":"18","miasto":"Warszawa","ulica":"Wojciechowskiego 37","nazwa":"Energy Fitness Club Ursus","Lat":"52.194623","Lng":"20.871508800000015"},{"id":"19","miasto":"Warszawa","ulica":"Su\u0142kowicka 2\/4","nazwa":"Energy Fitness Club Palace Mokot\u00f3w","Lat":"52.2055099","Lng":"21.03293199999996"},{"id":"20","miasto":"Warszawa","ulica":"Orla 6b","nazwa":"Energy Fitness Club Centrum Orla","Lat":"52.2427299","Lng":"20.99920499999996"},{"id":"28","miasto":"Warszawa","ulica":"Dybowskiego 3\/5","nazwa":"Olymp","Lat":"52.15010299999999","Lng":"21.035538900000006"},{"id":"37","miasto":"Warszawa","ulica":"Tamka 40","nazwa":"Power House","Lat":"52.2367459","Lng":"21.02188890000002"},{"id":"38","miasto":"Warszawa","ulica":"Radzymi\u0144ska 129F","nazwa":"Energy Fitness Club Targ\u00f3wek","Lat":"52.27126149999999","Lng":"21.06192980000003"},{"id":"42","miasto":"Warszawa","ulica":"Al. KEN 60","nazwa":"EGURROLA FITNESS CLUB","Lat":"52.149794","Lng":"21.04684700000007"},{"id":"59","miasto":"Warszawa","ulica":"Wojciecha G\u00f3rskiego 3","nazwa":"Klub Odnowa","Lat":"52.23374399999999","Lng":"21.016461899999967"},{"id":"65","miasto":"Warszawa","ulica":"\u015awietlik\u00f3w 3","nazwa":"Fitness Club S4 Bemowo","Lat":"52.2270309","Lng":"20.910467899999958"},{"id":"66","miasto":"Warszawa","ulica":"D\u0105browskiej 15","nazwa":"Fitness Club S4 Bielany","Lat":"52.2733784","Lng":"20.930863499999987"},{"id":"67","miasto":"Warszawa","ulica":"Pu\u0142awska 39","nazwa":"Fitness Club S4 Centrum","Lat":"52.2073309","Lng":"21.022580999999946"},{"id":"267","miasto":"Warszawa","ulica":"Patriot\u00f3w 154","nazwa":"Kala Fitness","Lat":"52.182604","Lng":"21.191832999999974"},{"id":"69","miasto":"Warszawa","ulica":"Nowogrodzka 50\/54","nazwa":"Gym Corner Fitness Club","Lat":"52.22794469999999","Lng":"21.00738290000004"},{"id":"72","miasto":"Warszawa","ulica":"Kazimierza Pu\u017caka 1","nazwa":"Fitness Club S4 Ursus","Lat":"52.190562","Lng":"20.89291609999998"},{"id":"73","miasto":"Warszawa","ulica":"Ko\u0144ski Jar 6","nazwa":"Fitness Club S4 Ursyn\u00f3w","Lat":"52.163916","Lng":"21.025779000000057"},{"id":"75","miasto":"Warszawa","ulica":"G\u0142adka 18","nazwa":"Fitness Club S4 W\u0142ochy","Lat":"52.1878906","Lng":"20.96069220000004"},{"id":"76","miasto":"Warszawa","ulica":"Grzybowska 32","nazwa":"Fitness Club S4 Wola","Lat":"52.2358646","Lng":"20.99485040000002"},{"id":"77","miasto":"Warszawa","ulica":"Przy Agorze 22","nazwa":"ZDROFIT BIELANY - Przy Agorze ","Lat":"52.291295","Lng":"20.93626789999996"},{"id":"127","miasto":"Warszawa","ulica":"Targowa 33a","nazwa":"Fitness Club S4 Praga P\u00f3\u0142noc","Lat":"52.2497298","Lng":"21.039785400000028"},{"id":"105","miasto":"Warszawa","ulica":"Modli\u0144ska 256","nazwa":"Calypso Fitness Club Bia\u0142o\u0142\u0119ka","Lat":"52.3395331","Lng":"20.958748900000046"},{"id":"106","miasto":"Warszawa","ulica":"\u017bu\u0142awskiego 2","nazwa":"Energy Fitness Club Mokot\u00f3w","Lat":"52.1905894","Lng":"20.992419299999938"},{"id":"134","miasto":"Warszawa","ulica":"Al. Wilanowska 91","nazwa":"Go Fitness","Lat":"52.17302","Lng":"21.05147290000002"},{"id":"136","miasto":"Warszawa","ulica":"Al. Jana Paw\u0142a II 82","nazwa":"ZDROFIT \u017bOLIBORZ - CH Arkadia ","Lat":"52.2573732","Lng":"20.9845828"},{"id":"137","miasto":"Warszawa","ulica":"Wo\u0142oska 12","nazwa":"ZDROFIT MOKOT\u00d3W - Galeria Mokot\u00f3w","Lat":"52.1795462","Lng":"21.00438699999995"},{"id":"141","miasto":"Warszawa","ulica":"Kie\u0142pin Poduchowny Warszawska 201-203","nazwa":"Calypso Fitness Club \u0141omianki","Lat":"52.34078340000001","Lng":"20.887443299999973"},{"id":"144","miasto":"Warszawa","ulica":"Petofiego 3","nazwa":"KnockOut Gym","Lat":"52.2823424","Lng":"20.93075399999998"},{"id":"151","miasto":"Warszawa","ulica":"Konarskiego 3","nazwa":"Fitness Atut","Lat":"52.2376393","Lng":"20.914927300000045"},{"id":"165","miasto":"Warszawa","ulica":"Stanis\u0142awa Kostki Potockiego 2","nazwa":"Calypso Fitness Club Wilan\u00f3w","Lat":"52.16027510000001","Lng":"21.089288500000066"},{"id":"181","miasto":"Warszawa","ulica":"Szpota\u0144skiego 4","nazwa":"ZDROFIT WAWER - CH Ferio","Lat":"52.2069881","Lng":"21.1664902"},{"id":"183","miasto":"Warszawa","ulica":"Trakt Brzeski 62A","nazwa":"Champion Club","Lat":"52.2228256","Lng":"21.233653199999935"},{"id":"187","miasto":"Warszawa","ulica":"Marywilska 44","nazwa":"Energy Fitness Club Bia\u0142o\u0142\u0119ka","Lat":"52.3162946","Lng":"21.000445799999966"},{"id":"188","miasto":"Warszawa","ulica":"Nowoursynowska 154a","nazwa":"Calypso Fitness Club Nowoursynowska","Lat":"52.154095","Lng":"21.05701590000001"},{"id":"189","miasto":"Warszawa","ulica":"Na\u0142\u0119czowska 17","nazwa":"Fitness Club S4 Sadyba","Lat":"52.1786638","Lng":"21.069865299999947"},{"id":"234","miasto":"Warszawa","ulica":"Plac Europejski 1","nazwa":"ZDROFIT WOLA - Warsaw Spire","Lat":"52.2323304","Lng":"20.984205900000006"},{"id":"206","miasto":"Warszawa","ulica":"Cio\u0142ka 13","nazwa":"Crosshouse","Lat":"52.2421519","Lng":"20.94482160000007"},{"id":"211","miasto":"Warszawa","ulica":"al. Reymonta 12","nazwa":"FitnessLand","Lat":"52.2745763","Lng":"20.937750100000017"},{"id":"218","miasto":"Warszawa","ulica":"Powsta\u0144c\u00f3w \u015al\u0105skich 9","nazwa":"WBA Fitness Club","Lat":"52.2247009","Lng":"20.91568200000006"},{"id":"220","miasto":"Warszawa","ulica":"\u0141azienkowska 6a","nazwa":"FitActive Torwar","Lat":"52.2223535","Lng":"21.040696300000036"},{"id":"304","miasto":"Warszawa","ulica":"Pu\u0142awska 2","nazwa":"ZDROFIT MOKOT\u00d3W - CH Plac Unii ","Lat":"52.2127999","Lng":"21.019830400000046"},{"id":"275","miasto":"Warszawa","ulica":"Chodakowska 12","nazwa":"Kamion Fitness Club ","Lat":"52.2487037","Lng":"21.067175499999962"},{"id":"231","miasto":"Warszawa","ulica":"Al. Jerozolimskie 181B","nazwa":"Calypso Fitness Warszawa Ochota Adgar","Lat":"52.2101319","Lng":"20.95227490000002"},{"id":"242","miasto":"Warszawa","ulica":"Dani\u0142owskiego 2\/4 ","nazwa":"IMPULS - Studio Doskonalenia Sylwetki ","Lat":"52.2731086","Lng":"20.944910700000037"},{"id":"244","miasto":"Warszawa","ulica":"Al.Wilanowska 361","nazwa":"ZDROFIT MOKOT\u00d3W - Al. Wilanowska ","Lat":"52.1788037","Lng":"21.01131029999999"},{"id":"247","miasto":"Warszawa","ulica":"Gr\u00f3jecka 17","nazwa":"Fitness Club S4 Ochota","Lat":"52.22242","Lng":"20.98734890000003"},{"id":"299","miasto":"Warszawa","ulica":"Szolc - Rogozi\u0144skiego 11","nazwa":"FIT FIGHT CLUB","Lat":"52.1510244","Lng":"21.050890699999968"},{"id":"270","miasto":"Warszawa","ulica":"\u015awiatowida 17","nazwa":"ZDROFIT TARCHOMIN - Galeria P\u00f3\u0142nocna","Lat":"52.3188262","Lng":"20.967553199999998"},{"id":"305","miasto":"Warszawa","ulica":"Mangalia 2A","nazwa":"ZDROFIT STEGNY - Mangalia2 ","Lat":"52.1873667","Lng":"21.047280499999943"}],"Warszawa Weso\u0142a":[{"id":"258","miasto":"Warszawa Weso\u0142a","ulica":"Jana Paw\u0142a II 13","nazwa":"Fitness Mambo","Lat":"52.2182106","Lng":"21.222949299999982"}],"W\u0142oc\u0142awek":[{"id":"310","miasto":"W\u0142oc\u0142awek","ulica":"Wiejska 13","nazwa":"Energy Fitness Club W\u0142oc\u0142awek","Lat":"52.650245","Lng":"19.056043000000045"}],"Wroc\u0142aw":[{"id":"36","miasto":"Wroc\u0142aw","ulica":"Szkocka 64","nazwa":"Tonus Fitness Studio","Lat":"51.107892","Lng":"16.957820999999967"},{"id":"53","miasto":"Wroc\u0142aw","ulica":"Powsta\u0144c\u00f3w \u015al\u0105skich 95","nazwa":"Fitness Academy Sky Tower","Lat":"51.0939798","Lng":"17.0198484"},{"id":"54","miasto":"Wroc\u0142aw","ulica":"Powsta\u0144c\u00f3w \u015al\u0105skich 2-4","nazwa":"Fitness Academy Arkady Wroc\u0142awskie","Lat":"51.099323","Lng":"17.028845000000047"},{"id":"55","miasto":"Wroc\u0142aw","ulica":"Krzywoustego 126","nazwa":"Fitness Academy CH Korona","Lat":"51.1418441","Lng":"17.087423299999955"},{"id":"104","miasto":"Wroc\u0142aw","ulica":"Ba\u0142tycka 15","nazwa":"Club Hawana","Lat":"51.1392607","Lng":"17.031999499999984"},{"id":"128","miasto":"Wroc\u0142aw","ulica":"T\u0119czowa 79\/81","nazwa":"Sport Klub T\u0119cza","Lat":"51.1049219","Lng":"17.010306000000014"},{"id":"133","miasto":"Wroc\u0142aw","ulica":"Paprotna 7","nazwa":"Fitness Academy Marino","Lat":"51.1517799","Lng":"17.026267899999993"},{"id":"148","miasto":"Wroc\u0142aw","ulica":"Aleja Karkonoska 59B","nazwa":"Top Fitness","Lat":"51.064153","Lng":"16.998482299999978"},{"id":"146","miasto":"Wroc\u0142aw","ulica":"pl. Dominika\u0144ski 3","nazwa":"Fitness Academy Stare Miasto","Lat":"51.1083911","Lng":"17.04116590000001"},{"id":"163","miasto":"Wroc\u0142aw","ulica":"Szybowcowa 31","nazwa":"Fitness Academy Szybowcowa","Lat":"51.13122","Lng":"16.962054099999932"},{"id":"182","miasto":"Wroc\u0142aw","ulica":"Czekoladowa 5","nazwa":"Fitness Academy Bielany","Lat":"51.0488407","Lng":"16.956378200000017"},{"id":"190","miasto":"Wroc\u0142aw","ulica":"\u017begiestowska 11","nazwa":"Fitness Academy Jupiter 24H","Lat":"51.0818547","Lng":"17.038534300000038"},{"id":"205","miasto":"Wroc\u0142aw","ulica":"Braniborska 14","nazwa":"Fitness Academy Domar","Lat":"51.110585","Lng":"17.013989000000038"},{"id":"297","miasto":"Wroc\u0142aw","ulica":"So\u0142tysowicka 15B","nazwa":"Puma Sports Center","Lat":"51.1398011","Lng":"17.071069699999953"},{"id":"252","miasto":"Wroc\u0142aw","ulica":"Strzegomska 210-212","nazwa":"Fitness Academy Strzegomska","Lat":"51.1116204","Lng":"16.958718399999952"},{"id":"232","miasto":"Wroc\u0142aw","ulica":"Krakowska 53","nazwa":"Fitness Academy Family Point","Lat":"51.0930604","Lng":"17.060467199999948"},{"id":"253","miasto":"Wroc\u0142aw","ulica":"Rogowska 52 A ","nazwa":"Fitness Academy Rogowska","Lat":"51.11824","Lng":"16.95334790000004"},{"id":"283","miasto":"Wroc\u0142aw","ulica":"Gagarina 27","nazwa":"Fitness Academy Gagarina","Lat":"51.0961967","Lng":"16.9353605"},{"id":"303","miasto":"Wroc\u0142aw","ulica":"G\u00f3ralska 5","nazwa":"Hasta La Vista","Lat":"51.10906199999999","Lng":"17.002332499999966"},{"id":"306","miasto":"Wroc\u0142aw","ulica":"\u015awidnicka 40","nazwa":"Calypso Fitness Club Wroc\u0142aw Renoma","Lat":"51.103442","Lng":"17.03167140000005"},{"id":"309","miasto":"Wroc\u0142aw","ulica":"Plac Grunwaldzki 22","nazwa":"Fitness Academy Pasa\u017c","Lat":"51.1129426","Lng":"17.059122600000023"},{"id":"317","miasto":"Wroc\u0142aw","ulica":"Pi\u0142sudskiego 67","nazwa":"Fitness Academy Retro ","Lat":"51.1008719","Lng":"17.03036129999998"},{"id":"370","miasto":"Wroc\u0142aw","ulica":"Hallera 52 ","nazwa":"Fitness Academy Borek","Lat":"51.0883421","Lng":"16.999093500000072"}],"Zawiercie":[{"id":"200","miasto":"Zawiercie","ulica":"G\u00f3rno\u015blaska 8","nazwa":"Active Fitness Club","Lat":"50.4865632","Lng":"19.4210822"},{"id":"238","miasto":"Zawiercie","ulica":"Daszy\u0144skiego 55","nazwa":"PowerFit Si\u0142ownia i Fitness ","Lat":"50.4790874","Lng":"19.438409999999976"}],"Z\u0105bki (okolice Warszawy)":[{"id":"295","miasto":"Z\u0105bki (okolice Warszawy)","ulica":"Szwole\u017cer\u00f3w 104\/1","nazwa":"AmeFit - Fun & Gym Szwole\u017cer\u00f3w","Lat":"52.284734","Lng":"21.130668900000046"}],"\u017bukowo":[{"id":"359","miasto":"\u017bukowo","ulica":"ul. Po\u017carna 3","nazwa":"Studio FIT-PANDA","Lat":"54.3462448","Lng":"18.365995399999974"}]}; var komunikaty = {"6":"Klub nieczynny do odwo\u0142ania. ","72":"Klub nieczynny z powodu remontu do odwo\u0142ania. ","380":"Szafki w szatni zamykane na w\u0142asne k\u0142\u00f3dki"};</script>
+    <div id="top-of-page"></div>
+        <div id="cookie_info">
+            This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+            <a href="#" class="close_cookie" onclick="closeCookieInfo()"></a>
+        </div>
+        
+        
+        
+        <div id="header" class="container">
+            
+            
+            <div class="ralfu">
+                
+                <div id="h" class="clear">
+                    
+                    <a href="/" class="logo fl">
+                        <img src="/images/logo/logo-resize.jpg" alt="logotyp BeActive" title="logo BeActive" />
+                        
+                    </a>
+                    <div class="logo-after"></div>
+                    <a class="mobile-only open-menu"></a>
+                    <script type="text/javascript">
+                        $(function() {
+                            $(".open-menu").click(function() {
+                                $("#menu").toggleClass("active");
+                            });
+                        });
+                    </script>
+                    <a href="/shopcart" class="mobile-only open-cart"></a>
+                    
+                    
+                    <div id="log" class="fr oh">
+                        
+                        <a href="/login" rel="nofollow" title="Zaloguj się" class="btn1 fl login-btn">zaloguj się</a>
+                        
+                        
+                        <a href="/shopcart" rel="nofollow" title="Koszyk" class="btn1 fl cart-btn" style="background: transparent url(/themes/ebeactive/images/no_cart_btn.png) center right no-repeat; margin-left: 10px;">koszyk</a>
+                    </div>
+                    
+                </div>
+                
+            </div>
+            
+            
+        </div>
+        
+        
+        
+        <div id="menu" class="container">
+            
+            
+            <div class="ralfu">
+                
+                <div id="m" class="clear">
+                    
+                    <ul class="fl">
+                        <li class="no-0 first"><a href="/" title="Strona Główna">Strona Główna</a></li><li class="no-1 nth-child-2"><a href="/oferta-r60.html" title="Oferta">Oferta</a></li><li class="no-2"><a href="/promocje-r77.html" title="Promocje">Promocje</a></li><li class="no-3 nth-child-2"><a href="/gdzie-skorzystac-r61.html" title="Nasze kluby">Nasze kluby</a></li><li class="no-4"><a href="/blog" title="Blog">Blog</a></li><li class="no-5 nth-child-2"><a href="/regulamin-r52.html" title="Regulamin">Regulamin</a></li>
+
+                        <div id="account-menu" style="display: none">
+                            
+                                <li><a href="/login" rel="nofollow">zaloguj się</a></li>
+                            
+                            
+                        </div>
+                    </ul>
+
+                    <div id="flag" class="fr"><div class="language_switcher">
+            <div class="current_language"><img src="../images/languages/0cae0ec7ff6eee20a0c555a295afbbc6.jpg" alt="Polski" title="Polski" class="lang_polish lang_toggle lang_active"><img src="../images/languages/bf17feca494b904580a2e80ad07c6777.jpg" alt="English" title="English" class="lang_English lang_toggle "><div class="available_languages"><a href="https://www.ebeactive.pl:443/">
+                <img src="../images/languages/0cae0ec7ff6eee20a0c555a295afbbc6.jpg" alt="Polski" title="Polski">
+            </a><a href="https://www.ebeactive.pl:443/en/">
+                <img src="../images/languages/bf17feca494b904580a2e80ad07c6777.jpg" alt="English" title="English">
+            </a></div>
+            </div>
+        </div></div>
+                    
+                </div>
+                
+            </div>
+            
+            
+        </div>
+        
+        
+        
+        <div id="content" class="container">
+            
+                <div id="strona_glowna">
+<table class="ctable_mainpage_nohb" width=100%>
+<tr>
+	<td><div id="home_page">	<div id="home_top">		<div class="ralfu">			<div class="content">				<div class="top-info">					<img alt="" src="/themes/ebeactive/img/home/top-text.png" /></div>				<div class="middle-info">					<div class="circle">						<img alt="" class="cart" src="/themes/ebeactive/img/home/middle.png" /></div>					<div class="button">						<a href="/oferta-r60.html">Kup teraz</a></div>				</div>				<img alt="" class="men" src="/themes/ebeactive/images/woman_.png" /></div>			<img alt="" class="women" src="/themes/ebeactive/images/man_.png" /></div>		<div class="bottom-info">			<div class="textimg">				<img alt="" class="arrow-left" src="/themes/ebeactive/img/home/arrow-left.png" /> <img alt="" class="text" src="/themes/ebeactive/img/home/bottom-text.png" /> <img alt="" class="arrow-right" src="/themes/ebeactive/img/home/arrow-right.png" /></div>		</div>	</div>	<div id="home_bot">		<div class="ralfu">			<div class="bot-info-title">				Z kartą BeActive opcja jest taka:</div>			<img alt="" class="body-info" src="/themes/ebeactive/img/home/bot-body.png" /></div>	</div></div></td>
+</tr>
+</table>
+</div>
+                
+                <div class="newsletter clear" style="">
+                    
+                    <div class="ralfu">
+                        
+                        <div class="content">
+                            
+                            <img class="big" src="/themes/ebeactive/images/newsletter_.png" />
+                            
+                            <h5>Newsletter</h5>
+                            
+                            <div class="text">
+                                Aby być zawsze na bieżąco ze wszystkimi nowościami, promocjami i aktualnościami w BeActive, koniecznie dodaj swój adres do naszego newslettera,<br/>a każdego miesiąca dostaniesz porcję ciekawych informacji.
+                            </div>
+            
+                            <form name="menusubskrypcja" method="post">
+                                <input type="hidden" value="true" name="newsletter"/>
+                                <input type="hidden" value="0" name="type"/>
+                                <input type="text" value="" name="n_email" class="txt" placeholder="Email" />
+                                <input type="submit" value="Dodaj" class="sendform2"  onClick="document.menusubskrypcja.type.value=1;" />
+                            </form>
+                        
+                        </div>
+                    
+                    </div>
+                
+                </div>
+                
+        </div>
+        
+        
+        
+        
+        <div id="footer" class="container">
+            
+            <div id="footer-mocarne-promo">
+                <div class="ralfu">
+                    * Średnia cena za miesiąc w promocji 2+1 dla karnetu Comfort. Promocja ograniczona czasowo, szczegóły na stronie www.
+                </div>
+            </div>
+            
+            <div id="foot" class="clear">
+
+                <div class="ralfu">
+
+                    <div id="f" class="clear badzmy-w-kontakcie" style="">
+
+                        <h4 style="margin-bottom: 15px; font-size: 17px; font-weight: bold; color: #aaa;">Bądźmy w kontakcie</h4>
+
+                        <div class="cont cont1 fl">
+                            <div class="address fl" style="background: none;">
+                                Instytut Rozwoju Fitness Sp. z o.o.<br/> ul. Puławska 427, <br/> 02-801 Warszawa
+                            </div>
+                            
+                            <div class="con fl">
+                                Infolinia czynna od poniedziałku do piątku w godzinach 9:00 - 19:00<br/>W soboty i niedziele w godzinach 9:00-17:00</br>tel. +48 22 629 27 58<br/> e-mail: <a href="/cdn-cgi/l/email-protection#127b7c747d527770777371667b64773c627e"><span class="__cf_email__" data-cfemail="ddb4b3bbb29db8bfb8bcbea9b4abb8f3adb1">[email&#160;protected]</span></a><br>marketing: <a href="/cdn-cgi/l/email-protection#f29f93809997869b9c95b29790979391869b8497dc829e"><span class="__cf_email__" data-cfemail="cca1adbea7a9b8a5a2ab8ca9aea9adafb8a5baa9e2bca0">[email&#160;protected]</span></a><br>kontakt dla klubów: <a href="/cdn-cgi/l/email-protection#d9a9b8abadb7bcab99bcbbbcb8baadb0afbcf7a9b5"><span class="__cf_email__" data-cfemail="cfbfaebdbba1aabd8faaadaaaeacbba6b9aae1bfa3">[email&#160;protected]</span></a><br/>
+                                infolinia PZU: 801 102 102
+                            </div>
+                            
+                            <div class="info clear">
+                                Instytut Rozwoju Fitness Sp. z o.o., ul. Puławska 427, 02-801 Warszawa;<br/> Sąd Rejonowy dla M. St. Warszawy, XII Wydział Gospodarczy Krajowego Rejestru Sądowego<br/> Kapitał zakładowy: 3 125 000 KRS 0000431424 NIP 701-035-23-71
+                            </div>
+                            
+                            <div class="info clear">
+                                Zgodnie z dyspozycją Rozporządzenia Parlamentu Europejskiego i Rady nr 524/2013 z<br/>dnia 21 maja 2013 r. poniżej udostępniamy łącze elektroniczne do platformy ODR: <a href="http://ec.europa.eu/odr">www.ec.europa.eu/odr</a>. Platforma ODR (Online Dispute Resolution) stanowi m. in. źródło informacji na temat form pozasądowego rozstrzygania sporów mogących powstać pomiędzy przedsiębiorcami i konsumentami.Niezależnie przypominamy, że adres poczty elektronicznej, pod którym mogą się Państwo z nami kontaktować to: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b8d1d6ded7f8dddaddd9dbccd1cedd96c8d4">[email&#160;protected]</a>
+                            </div>
+                            
+                        </div>
+
+                        <div class="cont cont2 fr">
+
+                            <div class="form clear">
+                                <form method="post" name="contact_form" action="" id="footerCform">
+                                    <div class="inp fl">
+                                        <input class="input_normalx" name="form[email]" placeholder="Email" required="" type="email" value="" notEqualTo="Email" />
+                                    </div>
+                                    <div class="inp fr">
+                                        <input class="input_normalx" name="form[name]" placeholder="Imię i Nazwisko" required="" type="text" value="" />
+                                    </div>
+                                    <div class="text clear">
+                                        <textarea placeholder="Wiadomość" class="textarea_k" id="kontakt" name="form[tresc]" required=""></textarea>
+                                    </div>
+                                    <div class="capt fl">
+                                        <span class="txt fl">Przepisz kod:</span>
+                                        <div id="captchaText"></div>
+                                        <input type="hidden" name="captchaImg" value="" id="captchaImg"/>
+                                        <input type="text" id="captchaInp" name="captchaTxt" />
+                                        <label class="error">Niepoprawny kod</label>
+                                    </div>
+                                    <div class="sbm fr">
+                                        <input class="sendform fr" type="submit" value="Wyślij" />
+                                    </div>
+                                </form>
+                            </div>
+                        
+                        </div>
+
+                    </div>
+
+                    <div id="f2" class="clear">
+                        <a class="logo fl"></a>
+                        <span class="cr fl">Wszelkie prawa zastrzeżone 2013</span>
+						<div  class="cstore fr" style="color:#8C8C8C">
+                         Sklepy internetowe <a href="https://www.cstore.pl/">CStore</a></div>
+                        <div id="to-top-btn" class="mobile-only"></div>
+                        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+                            $("#to-top-btn").click(function() {
+                                $('html, body').animate({
+                                    scrollTop: $("#top-of-page").offset().top
+                                }, 500);
+                            });
+                        </script>
+                    </div>
+                
+                </div>
+            
+            
+            </div>
+            
+            
+            
+        </div>
+
+
+
+
+
+    <div id="f-cont" class="container">
+
+
+        
+
+    </div>
+
+   <a href="/oferta-r60.html" title="Zobacz koszyk" id="fixed-cart"></a>
+
+   
+   <div class="ralfu">
+       <div id="transfer_force">
+           <a onclick="return false" class="close">x</a>
+           <p>
+	<a href="/promocje-r77.html"><img alt="" src="/files/file/PRZEKAZ_MOC_TOP.jpg" style="width: 640px; height: 400px;" /></a></p>
+
+       </div>
+   </div>
+   
+   
+   
+   
+
+    <div id="blackout"> </div>
+
+    
+
+    
+
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TXJ4R9"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+	new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+	"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,"script","dataLayer","GTM-TXJ4R9");</script>
+	<!-- End Google Tag Manager -->
+
+    <img alt="" src="//delivery.clickonometrics.pl/suc/suc.gif" />
+
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 953568627;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+
+    <!-- BEGIN callpage.io widget -->
+    <script type="text/javascript">
+//    var __cp={"id":"BcOkYlQ2IJil8cAEx-9Plfo4WqFvX5yh60vDcz7tRvE","version":"1.1"};(function(window,document){var loader=function(){var cp=document.createElement('script');cp.type='text/javascript';cp.async=true;cp.src="++cdn-widget.callpage.io+build+js+callpage.js".replace(/[+]/g,'/').replace(/[=]/g,'.');var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(cp,s);};window.addEventListener?window.addEventListener("load",loader,false):window.attachEvent("onload",loader);if(window.callpage){alert('You could have only 1 CallPage code on your website!');}else{window.callpage=function(method){if(method=='__getQueue'){return this.methods;}
+//    else if(method){if(typeof window.callpage.execute==='function'){return window.callpage.execute.apply(this,arguments);}
+//    else{(this.methods=this.methods||[]).push({arguments:arguments});}}};window.callpage.__cp=__cp;window.callpage('api.button.autoshow');}})(window,document);
+    </script>
+    <!-- END callpage.io widget -->
+
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/953568627/?value=0&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+
+		<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWZ9JJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <script type="text/javascript">
+        var _smid = "cjrrjrh9xh0al6do";
+        (function(w, r, a, sm, s ) {
+            w['SalesmanagoObject'] = r;
+            w[r] = w[r] || function () {( w[r].q = w[r].q || [] ).push(arguments)};
+            sm = document.createElement('script'); sm.type = 'text/javascript'; sm.async = true; sm.src = a;
+            s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(sm, s);
+        })(window, 'sm', ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.salesmanago.pl/static/sm.js');
+
+        setTimeout(function () {
+            if (window.location.href.indexOf('/en/') != -1) {
+                $('#InteliwiseSaaSModule_win_wrapper #iw-tab-label').html('Let’s talk!');
+            }
+
+//            $('#InteliwiseSaaSModule_win_wrapper').css('visibility', 'visible');
+        }, 3000);
+    </script>
+    <style>
+        #InteliwiseSaaSModule_win_wrapper {
+            /*visibility: hidden;*/
+        }
+    </style>
+
+
+
+    <!-- Adform Tracking Code BEGIN -->
+    <script type="text/javascript">
+        window._adftrack = Array.isArray(window._adftrack) ? window._adftrack : (window._adftrack ? [window._adftrack] : []);
+        window._adftrack.push({
+            pm: 295176,
+            divider: encodeURIComponent('|'),
+            pagename: encodeURIComponent('byli_na_beactive')
+        });
+        (function () { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://track.adform.net/serving/scripts/trackpoint/async/'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); })();
+
+    </script>
+    <noscript>
+        <p style="margin:0;padding:0;border:0;">
+            <img src="https://track.adform.net/Serving/TrackPoint/?pm=295176&ADFPageName=byli_na_beactive&ADFdivider=|" width="1" height="1" alt="" />
+        </p>
+    </noscript>
+    <!-- Adform Tracking Code END -->
+
+    <script src="/voucher_scripts.js"></script>
+
+<script type="text/javascript">OMID=1311156;OPID=33072;ORef=escape(window.parent.location.href);!function(){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="//track.omgpl.com/action/application/?action=End&MID=" + OMID + "&PID=" + OPID + "&ref=" + ORef + "&val=";var b=document.getElementsByTagName("body")[0];if(b)b.appendChild(a,b);else{var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}}();</script>
+    
+    <div style="display: none; position: fixed; top: 0%; left: 0%; width: 100%; height: 100%; background-color: black; z-index: 1001; opacity: 0.8;" id="ppo_overlay"></div>
+                    <div style="display: none; position: fixed; top: 20%; z-index: 1002; overflow: auto;" id="ppo_img">
+                        <img id="ppo_close" src="/themes/images/cancel.png" style="position: absolute; right: 4.5%; top: 6%; cursor: pointer;">
+                        <a href="/oferta-r60.html"><img src="/themes/ebeactive/images/promotions/subskrypcja_/popup_pl.png"></a>
+                    </div></body>
+</html>

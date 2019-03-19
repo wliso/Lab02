@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
+using System.Net;
+using System.IO;
 
 namespace Lab01
 {
@@ -11,5 +13,10 @@ namespace Lab01
     {
         public string Name { get; set; }
         public int Age { get; set; }
+        public string Filename { get; set; }
+        public string Random_words { get; set; }
+        public Person()
+        { 
+        }
     }
 }
